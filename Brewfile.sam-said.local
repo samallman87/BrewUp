@@ -1,0 +1,86 @@
+tap "candid82/brew"
+tap "crisidev/chunkwm"
+tap "denisidoro/tools"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "koekeishiya/formulae"
+tap "kommandr/tap"
+tap "melonamin/formulae"
+tap "yqrashawn/goku"
+brew "aria2"
+brew "readline"
+brew "sqlite"
+brew "xz"
+brew "autojump"
+brew "bash-completion"
+brew "pcre"
+brew "python@3.8"
+brew "chunkwm", args: ["HEAD"]
+brew "coreutils"
+brew "dpkg"
+brew "tesseract"
+brew "ffmpeg"
+brew "fish"
+brew "fzf"
+brew "fzy"
+brew "getxbook"
+brew "hashcat"
+brew "ncurses"
+brew "htop"
+brew "lastpass-cli"
+brew "libav"
+brew "libzip"
+brew "m-cli"
+brew "mackup"
+brew "mas"
+brew "mkcert"
+brew "multitail"
+brew "node"
+brew "openjdk"
+brew "ranger"
+brew "thefuck"
+brew "tldr"
+brew "wget"
+brew "youtube-dl"
+brew "zlib"
+brew "zsh"
+brew "denisidoro/tools/navi"
+brew "kommandr/tap/kmdr"
+brew "yqrashawn/goku/goku"
+cask "cakebrew"
+cask "ferdi"
+cask "fontforge"
+cask "iina"
+cask "java"
+cask "karabiner-elements"
+cask "penc"
+cask "pixel-picker"
+cask "preference-manager"
+cask "qlcolorcode"
+cask "qlimagesize"
+cask "qlmarkdown"
+cask "qlstephen"
+cask "qlvideo"
+cask "quicklook-json"
+cask "quicklookase"
+cask "sloth"
+cask "soundcleod"
+cask "xquartz"
+mas "Amphetamine", id: 937984704
+mas "Amphetamine", id: 937984704
+mas "Apple Configurator 2", id: 1037126344
+mas "ColorSlurp", id: 1287239339
+mas "ColorSlurp", id: 1287239339
+mas "Gifski", id: 1351639930
+mas "Internet Access Policy Viewer", id: 1482630322
+mas "LastPass", id: 926036361
+mas "LastPass", id: 926036361
+mas "OwlOCR", id: 1499181666
+mas "OwlOCR", id: 1499181666
+mas "Raindrop.io for Safari", id: 957810159
+mas "Shazam", id: 897118787
+mas "Spark", id: 1176895641
+mas "Spark", id: 1176895641
+mas "Uni Detector", id: 1531249804
+mas "Xcode", id: 497799835
